@@ -6,5 +6,5 @@
 - Simple GUI should be self explanatory.
 
 # MISC:
--If it's stuck on loading or connecting to server then you should wait at least 10 seconds
--It is recommended to use your game steamID for your username and friendlist to work
+- If it's stuck on loading or connecting to server then you should wait at least 10 seconds
+- It is recommended to use your game steamID for your username and friendlist to work
